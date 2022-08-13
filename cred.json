@@ -1,0 +1,21 @@
+[
+    {
+        "blogger_id": "",
+
+        "telegram_bot_token": "",
+        "chat_id": "",
+        
+        "consumer_key": "",
+        "consumer_secret": "",
+        "access_token": "",
+        "access_token_secret": "",
+
+        "facetoken": "",
+        "id_facebook": "",
+
+        "authorization": "",
+
+        "ig_user_id": "",
+        "insta_token": ""        
+    }
+]
