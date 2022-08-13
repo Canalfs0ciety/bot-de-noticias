@@ -28,7 +28,7 @@ translator = Translator()
 
 # É necessario criar um arquivo json com as credenciais, essas credenciais é de acordo com cada plataforma que voce vai usar
 # No caso eu criei para 6 plataformas, se voce for usar todas vai ser preciso ver como pegar de cada uma delas
-with open('credenciais.json', 'r') as json_file:
+with open('cred.json', 'r') as json_file:
     dados = json.load(json_file)
 # Aqui vai salvar cada informação de credencial em uma variavel
 for item in dados:
