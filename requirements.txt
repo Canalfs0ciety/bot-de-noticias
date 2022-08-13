@@ -1,0 +1,13 @@
+apiclient==1.0.4
+beautifulsoup4==4.11.1
+facebook-sdk==3.1.0
+google-api-python-client==2.36.0
+google-auth==2.3.3
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.4.6
+googletrans==3.1.0a0
+oauth2client==4.1.3
+oauthlib==3.1.1
+tweepy==4.5.0
+Unidecode==1.3.4
+requests
