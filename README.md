@@ -27,3 +27,5 @@ Caso sua intenção seja deixar esse bot rodando direto, eu recomendo usar a pla
 Veja tambem o bot funcionando no meu site https://www.canalfsociety.com/
 
 Ajude meu projeto nesse [link](https://apoia.se/samirnews)
+
+pip3 install -r requirements.txt
